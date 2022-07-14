@@ -80,7 +80,7 @@ export const Projects = () => {
       imgUrl: projhandlebarsferreteria,
     },
     {
-      title: "Octecsa",
+      title: "Otecsa",
       description: "Analysis and design of systems",
       imgUrl: projanalisisoctecsa,
     },
@@ -139,7 +139,7 @@ export const Projects = () => {
     },
     {
       title: "To - do",
-      description: "Web development",
+      description: "Web and mobile development",
       imgUrl: projtodo,
     },
     {
